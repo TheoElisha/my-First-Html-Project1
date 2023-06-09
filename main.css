@@ -1,0 +1,19 @@
+.image-coffee img{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+}
+table tr th td{
+    border: 1px;
+    padding: 0.9rem;
+}
+.coffeeImg img{
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+}
+.shop img{
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+}
